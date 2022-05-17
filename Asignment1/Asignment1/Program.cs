@@ -33,8 +33,6 @@ public class Program
                 {
                     line = myfile.ReadLine();
                         if (line != null)
-                            //  foreach (string str in line.Split(" "))
-                            // {
 
                             //1
                             for (int i = 0; i < line.Split(" ").Length; i++)
@@ -47,6 +45,7 @@ public class Program
                                     System.IO.File.Copy(s, destFile, true);
                                 }
 
+                                //2
                                 if (dict.ContainsKey(word))
                                 {
                                     dict[word] = dict[word] + 1;
@@ -55,6 +54,7 @@ public class Program
                                 {
                                     dict.Add(word, 1);
                                 }
+                                //6
                                 foreach (char w in word)
                                 {
                                     if (!listWord.Contains(w))
@@ -62,7 +62,7 @@ public class Program
                                         listWord.Add(w);
                                     }
                                 }
-                      //  }
+                     
                 }
                 while (line != null);
                 myfile.Close();
@@ -71,24 +71,28 @@ public class Program
                 {
                     Console.WriteLine("wrong when open file.");
                 }
+
+                //2
                 foreach (KeyValuePair<string, int> sortFile in dict.OrderByDescending(key => key.Value))
                 {
                     File.AppendAllText(s.Split(".txt")[0]+" 2"+".txt", sortFile.Key + " : " + sortFile.Value + "\n");
                     countWord += sortFile.Value;
-                //    Console.WriteLine(sortFile.Key + " : " + sortFile.Value);
                 }
 
                 //3
              File.AppendAllText(@"C:\Users\hieu0\OneDrive\Máy tính\c#\việt nam3.txt", fileName + " : "+ countWord + "\n");
 
-                //4
+              
                 Console.WriteLine(fileName + "\n");
                 foreach (var item in dict)
                 {
+                    //4
                     if (rg.IsMatch(item.Key.ToString()))
                     {
                         Console.WriteLine(item.Key);
                     }
+
+                    //5
                     if (rgNumber.IsMatch(item.Key.ToString()))
                     {
                         try
