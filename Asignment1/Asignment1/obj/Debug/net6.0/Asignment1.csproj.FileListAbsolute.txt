@@ -13,3 +13,18 @@ C:\Users\hieu0\source\repos\Asignment1\Asignment1\obj\Debug\net6.0\refint\Asignm
 C:\Users\hieu0\source\repos\Asignment1\Asignment1\obj\Debug\net6.0\Asignment1.pdb
 C:\Users\hieu0\source\repos\Asignment1\Asignment1\obj\Debug\net6.0\Asignment1.genruntimeconfig.cache
 C:\Users\hieu0\source\repos\Asignment1\Asignment1\obj\Debug\net6.0\ref\Asignment1.dll
+C:\Users\hieu0\OneDrive\Máy tính\Assignment1-C-sharp\Asignment1\Asignment1\bin\Debug\net6.0\Asignment1.exe
+C:\Users\hieu0\OneDrive\Máy tính\Assignment1-C-sharp\Asignment1\Asignment1\bin\Debug\net6.0\Asignment1.deps.json
+C:\Users\hieu0\OneDrive\Máy tính\Assignment1-C-sharp\Asignment1\Asignment1\bin\Debug\net6.0\Asignment1.runtimeconfig.json
+C:\Users\hieu0\OneDrive\Máy tính\Assignment1-C-sharp\Asignment1\Asignment1\bin\Debug\net6.0\Asignment1.dll
+C:\Users\hieu0\OneDrive\Máy tính\Assignment1-C-sharp\Asignment1\Asignment1\bin\Debug\net6.0\Asignment1.pdb
+C:\Users\hieu0\OneDrive\Máy tính\Assignment1-C-sharp\Asignment1\Asignment1\obj\Debug\net6.0\Asignment1.csproj.AssemblyReference.cache
+C:\Users\hieu0\OneDrive\Máy tính\Assignment1-C-sharp\Asignment1\Asignment1\obj\Debug\net6.0\Asignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hieu0\OneDrive\Máy tính\Assignment1-C-sharp\Asignment1\Asignment1\obj\Debug\net6.0\Asignment1.AssemblyInfoInputs.cache
+C:\Users\hieu0\OneDrive\Máy tính\Assignment1-C-sharp\Asignment1\Asignment1\obj\Debug\net6.0\Asignment1.AssemblyInfo.cs
+C:\Users\hieu0\OneDrive\Máy tính\Assignment1-C-sharp\Asignment1\Asignment1\obj\Debug\net6.0\Asignment1.csproj.CoreCompileInputs.cache
+C:\Users\hieu0\OneDrive\Máy tính\Assignment1-C-sharp\Asignment1\Asignment1\obj\Debug\net6.0\Asignment1.dll
+C:\Users\hieu0\OneDrive\Máy tính\Assignment1-C-sharp\Asignment1\Asignment1\obj\Debug\net6.0\refint\Asignment1.dll
+C:\Users\hieu0\OneDrive\Máy tính\Assignment1-C-sharp\Asignment1\Asignment1\obj\Debug\net6.0\Asignment1.pdb
+C:\Users\hieu0\OneDrive\Máy tính\Assignment1-C-sharp\Asignment1\Asignment1\obj\Debug\net6.0\Asignment1.genruntimeconfig.cache
+C:\Users\hieu0\OneDrive\Máy tính\Assignment1-C-sharp\Asignment1\Asignment1\obj\Debug\net6.0\ref\Asignment1.dll
